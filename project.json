@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"file" : "DECO Monitoring.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.27451 0.33725 0.43922"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Anime" ],
+	"title" : "DECO*27 -「Monitoring」ft. Hatsune Miku【V2】",
+	"type" : "video",
+	"version" : 0
+}
